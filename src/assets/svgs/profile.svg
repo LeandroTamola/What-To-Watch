@@ -1,0 +1,16 @@
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Account</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Navigation-/-360px-/-Settings-–-light-mode" transform="translate(-314.000000, -10.000000)">
+            <g id="Icon-/-Menu-/-Settings-/-Red" transform="translate(312.000000, 8.000000)">
+                <g id="Group-2">
+                    <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                    <g id="Group" transform="translate(2.000000, 2.000000)" fill="#000" fill-rule="nonzero">
+                        <path d="M10,0 C15.52,0 20,4.48 20,10 C20,15.52 15.52,20 10,20 C4.48,20 0,15.52 0,10 C0,4.48 4.48,0 10,0 Z M10,2 C5.59,2 2,5.59 2,10 C2,11.82 2.62,13.49 3.64,14.83 L3.64,14.83 C5.0128,13.1596 8.265664,12.54904 9.8154112,12.5028678 L10,12.5 L10,12.5 C10.876,12.5 12.4756,12.7124 13.924,13.25816 L14.2114048,13.3717926 C15.066016,13.72624 15.8452,14.2036 16.36,14.83 L16.36,14.83 C17.38,13.49 18,11.82 18,10 C18,5.67320755 14.5441937,2.13576362 10.2487283,2.0038155 Z" id="Combined-Shape"></path>
+                        <path d="M10,4 C8.06,4 6.5,5.56 6.5,7.5 C6.5,9.44 8.06,11 10,11 C11.94,11 13.5,9.44 13.5,7.5 C13.5,5.56 11.94,4 10,4 Z" id="Path"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
